@@ -1,0 +1,14 @@
+button {
+    margin: 10px 0 10px 10px;
+    padding: 10px;
+    background-color: purple;
+    color: white;
+    border: 1px solid #5c055c;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color:rgb(80, 5, 80);
+    border: 1px solid #5c055c;
+    outline: 0;
+}
